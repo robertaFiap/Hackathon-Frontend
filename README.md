@@ -23,8 +23,10 @@ Após os softwares instalados e baixado o projeto localmente, seguir os seguinte
 ```
 * Backend
 
+ Este projeto do backend encontra-se em https://github.com/robertaFiap/Entrega-Fase3-TechChallenge-Backend
   1) Abrir no VSCode
   2) Para subir a aplicação no terminal digite: npm run dev
+ 
 
 * Frontend
 
