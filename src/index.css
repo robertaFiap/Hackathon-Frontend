@@ -7,6 +7,38 @@
     padding: 1rem;
     min-width: 100vw;
     min-height: 100vh;
-    background-color: black;
+    background-color: gray;
     
   }
+
+  @keyframes anima {
+      from{
+        background-color: blue;
+      }
+      to {
+        background-color: yellowgreen;
+      }
+  }
+
+  .mural {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+
+  .esporte {
+    background-color: lightblue;
+  }
+ 
+  .entretenimento {
+    background-color: lightblue;
+  }
+
+  .politica {
+    background-color: lightblue;
+  }
+ 
+ 
