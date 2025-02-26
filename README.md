@@ -23,7 +23,7 @@ Após os softwares instalados e baixado o projeto localmente, seguir os seguinte
 ```
 * Backend
 
- Este projeto do backend encontra-se em https://github.com/robertaFiap/Hackathon-Backend
+ Este projeto do backend encontra-se em https://github.com/robertaFiap/Hackathon-Backend e https://github.com/robertaFiap/Hackathon-Frontend
   1) Abrir no VSCode
   2) Para subir a aplicação no terminal digite: npm run dev
  
