@@ -1,6 +1,6 @@
 # Integração Frontend X Backend
 
-Este projeto tem a finalidade de criar o Frontend de uma biblioteca(crud) e integra-lo com o backend já desenvolvido no módulo anterior.
+Este projeto tem a finalidade de criar o Frontend de um site de anúncio(crud) e integra-lo com o backend.
 
 
 ## 🚀 Começando
@@ -42,22 +42,23 @@ Após os softwares instalados e baixado o projeto localmente, seguir os seguinte
 
 ## ⚙️ Executando os testes
 
-Na página da biblioteca, poderá desfrutar das seguintes opções:
+Na página da site de notícias poderá desfrutar das seguintes páginas:
 
-Lista de livros;
-Alterar o titulo, autor ou editora;
-Deletar o livro;
-Inserir um novo livro
+Home, Entretenimento, Politíca, Esportes, Sobre, Mural de Anúncios.
+
+No mural de anúncios é o local onde terá uma interação com o backend podendo;
+Listar os anúncios;
+Alterar, Deletar e Inserir o anúncio;
 
 ### 🔩 Analise os testes de ponta a ponta
 
 Avalie a navegação das páginas, bem como a funcionalidado do crud.
 
 ```
-Verifique a lista de livros trouxe todos os livros cadastrados no banco de dados;
-Altere qualquer campo(titulo, autor ou editora) e valide se reflete corretamente na aplicação;
-Delete um livro e verifique se a lista de lista será atualizada retirando o livro;
-Insera um novo livro preenchendo os campos(titulo, autor ou editora) e valide se p novo livro será refletido na aplicação
+Verifique a lista de anúncios trouxe todos os anúncios cadastrados no banco de dados;
+Altere qualquer campo(descrição, preço ou contato) e valide se reflete corretamente na aplicação;
+Delete um anúncio e verifique se a lista será atualizada retirando o anúncio;
+Insera um novo anúncio preenchendo os campos(descrição, preço ou contato) e valide se o novo anúncio será refletido na aplicação
 ```
 
 ## 🛠️ Construído com
