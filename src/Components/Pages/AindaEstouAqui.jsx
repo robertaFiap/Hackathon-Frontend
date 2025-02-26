@@ -4,7 +4,7 @@ import Logo from "../../assets/Logo.jpg";
 
 function AindaEstouAqui(){
     return (
-        <div class="b">
+        <div class="a">
             <Image src={Logo} class="Logo" width="400" height="75" />
             <h4 class="text-center">Perda do BAFTA de Ainda Estou Aqui para 'Emilia Pérez' gera protestos na web.</h4>
             <div class="text-center">
